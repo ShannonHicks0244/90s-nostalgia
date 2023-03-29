@@ -48,3 +48,25 @@ li {
     display: inline;
 }
 
+.navblock {
+    display: block;
+    padding: .5em .75em .5em .75em;
+    border-radius: 8px;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+    background-color: purple;
+    border: 2px, white
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+    background-color: purple;
+    border: 2px, white
+}
+
+
+
