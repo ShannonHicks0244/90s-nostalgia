@@ -116,3 +116,14 @@ section figure figcaption {
     color: white;
     font-style: italic;
 }
+
+.icon {
+    display:block
+    padding: 2em 0em 2em 0em
+}
+
+.icon img {
+    width: 260px;
+    margin: 2em;
+    float: left;
+}
