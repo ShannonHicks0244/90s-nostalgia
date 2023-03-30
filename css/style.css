@@ -131,3 +131,7 @@ section figure figcaption {
 .Johnny {
     clear: left;
 }
+
+.featured-articles {
+    display: none
+}
