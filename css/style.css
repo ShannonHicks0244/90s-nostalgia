@@ -124,12 +124,12 @@ section figure figcaption {
 
 .icon img {
     width: 260px;
-    margin: 2em;
     float: left;
+    margin: 2em;
 }
 
-.Johnny {
-    clear: left;
+.fashion-icons p:last-of-type {
+    float: none;
 }
 
 .featured-articles {
