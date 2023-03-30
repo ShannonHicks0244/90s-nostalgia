@@ -28,51 +28,51 @@ img {
 }
 
 .wrapper {
-    width: 900px;
+    max-width: 900px;
     padding: 1.5em 0em 1.5em 0em;
     margin-right: auto;
     margin-left: auto;
 }
 
-.header {
+header {
     padding: 1.5em 0em 1.5em 0em
 }
 
-.nav {
+nav ul li {
     list-style-type: none;
     padding: 0%;
-    text-align: center;
-    display: inline-block;
+    display: inline;
 }
 
-.nav {
+nav ul {
     display: block;
+    text-align: center;
     padding: .5em .75em .5em .75em;
     border-radius: 8px;
 }
 
-.nav:link {
+nav ul a:link {
     text-decoration: none;
     color: white;
     background-color: purple;
     border: 2px, white
 }
 
-.nav:visited {
+nav ul a:visited {
     text-decoration: none;
     color: white;
     background-color: purple;
     border: 2px, white
 }
 
-.nav:hover {
+nav ul a:hover {
     text-decoration: none;
     color: purple;
     background-color: white;
     border: 2px, purple
 }
 
-.nav:focus {
+nav li a:focus {
     text-decoration: none;
     color: purple;
     background-color:white;
