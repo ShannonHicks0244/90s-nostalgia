@@ -127,3 +127,7 @@ section figure figcaption {
     margin: 2em;
     float: left;
 }
+
+.Johnny {
+    clear: left;
+}
