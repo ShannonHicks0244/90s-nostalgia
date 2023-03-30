@@ -8,22 +8,22 @@ html {
 }
 
 body {
-    margin: 0%;
+    margin: none;
 }
 
-*,
-*::before,
-*::after {
+*, *::before, *::after {
     box-sizing: border-box;
 }
 
-.img {
+img {
     width: 100%;
 }
 
 .logo {
     width: 160px;
-    display: inline;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 
